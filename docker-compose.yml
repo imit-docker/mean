@@ -5,6 +5,7 @@ services:
     build: .
     container_name: dc-mean
     ports:
+     - "4200:4200"
      - "3000:3000"
      - "5858:5858"
      - "8080:8080"
