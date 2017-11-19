@@ -1,4 +1,4 @@
-# Containers para uso general del PHP
+# Containers para uso general del MEAN
 
 ## Uso
 
